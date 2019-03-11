@@ -2,7 +2,7 @@
 SCENREDPY is a scenario reduction tool modeling the random data processes realized in Python. 
 
 Updated on 20190311:
-- Migrated from the other account. 
+- Migrated from one of my another account. 
 - Add several new test datasets.
 
 
