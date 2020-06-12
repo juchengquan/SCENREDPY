@@ -7,7 +7,7 @@ TODO:
 
 **Demo result:**
 
-![demo](.\fig\demo.png)
+![demo](./fig/demo.png)
 
 
 **Reference**:
